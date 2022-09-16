@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+
+body {
+    background-color: aqua;
+    font-family: 'Fira Code', monospace;
+    text-align: center;
+    margin: auto;
+    color: black;
+}
+#section{
+    background-color: white;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+}
+.img{
+    border-radius: 30px;
+    width: 300px;
+    margin-top: 60px;
+}
+#p{
+    position: relative;
+    padding-top: 40px;
+}
